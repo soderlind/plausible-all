@@ -1,5 +1,7 @@
 # Plausible Stats Aggregator
 
+> [Vibe coded](https://gist.github.com/soderlind/e6fbf258f783fe1e930cb6d9e688086d)
+
 A Python script that retrieves comprehensive analytics stats from all sites in your Plausible Analytics account and exports them to CSV files for month-to-date and year-to-date metrics.
 
 ![Year-to-Date Stats](assets/y2d.png)
