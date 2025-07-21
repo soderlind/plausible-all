@@ -2,6 +2,8 @@
 
 A Python script that retrieves comprehensive analytics stats from all sites in your Plausible Analytics account and exports them to CSV files for month-to-date and year-to-date metrics.
 
+![Year-to-Date Stats](assets/y2d.png)
+
 ## Features
 
 - 🏢 **Multi-site Support**: Automatically discovers and processes all sites in your Plausible account
